@@ -75,11 +75,14 @@ It’s visually intuitive and perfect for anyone—whether you’re a business o
 ---
 
 ## Media & Extras! 🎥✨
-
-- **Dashboard Image:** (Ecommerce_Sales_Dashboard.png)
-- **Dashboard Walkthrough Video:** (Ecommerce_Sales.mp4)
 - **Dashboard Backgroung:** (dark-gradient.jpg)
-
+- **Dashboard Image** 📸
+![Shashitha Ecommerce Dashboard](Ecommerce_Sales_Dashboard.png)
+- **Dashboard Walkthrough Video** 🎥
+<video width="720" controls>
+  <source src="Ecommerce_Sales.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## Why is This Dashboard Important? 🌟
